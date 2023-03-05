@@ -1,3 +1,4 @@
+![gigasecond](https://user-images.githubusercontent.com/44240533/222983517-7eb93e95-4662-400b-a73b-3b5b0c13a68a.svg)
 # Gigasecond
 
 Welcome to Gigasecond on Exercism's Java Track.
